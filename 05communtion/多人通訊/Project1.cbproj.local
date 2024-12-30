@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/15 07:43:02.000.743,=C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/12/15 07:43:03.000.205,=C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/15 07:43:20.000.301,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Unit1.dfm</Transaction>
+    <Transaction>2023/12/15 07:43:20.000.301,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Unit1.cpp</Transaction>
+    <Transaction>2023/12/15 07:43:20.000.301,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Unit1.h</Transaction>
+    <Transaction>2023/12/15 07:43:22.000.699,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Project1PCH1.h</Transaction>
+    <Transaction>2023/12/15 07:43:24.000.187,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Project1.cbproj</Transaction>
+    <Transaction>2024/01/18 02:58:20.000.957,=C:\Users\Chen Yi Tong\Desktop\進版\多人通訊\Unit2.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

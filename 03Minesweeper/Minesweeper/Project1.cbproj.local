@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/22 19:06:13.000.007,=C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/08/22 19:06:13.000.285,=C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/08/22 19:06:25.000.919,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Unit1.dfm</Transaction>
+    <Transaction>2023/08/22 19:06:25.000.919,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Unit1.h</Transaction>
+    <Transaction>2023/08/22 19:06:25.000.919,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Unit1.cpp</Transaction>
+    <Transaction>2023/08/22 19:06:27.000.349,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Project1PCH1.h</Transaction>
+    <Transaction>2023/08/22 19:06:28.000.618,C:\Users\Chen Yi Tong\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Project1.cbproj</Transaction>
+    <Transaction>2023/08/22 21:29:39.000.900,=C:\Users\Chen Yi Tong\Desktop\進版\Minesweeper\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

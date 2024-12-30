@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Unit2.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+
+
+inline void Onclick (TObject *Sender)
+{
+    newButton->Caption ="¡´";
+
+}

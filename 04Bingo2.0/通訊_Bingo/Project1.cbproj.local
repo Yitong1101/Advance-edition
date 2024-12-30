@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/15 23:44:14.000.594,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/15 23:44:15.000.247,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/15 23:45:50.000.699,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/15 23:45:50.000.193,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/19 09:34:33.000.495,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/19 09:34:34.000.130,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/19 09:38:56.000.334,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/19 09:38:56.000.426,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/19 09:40:13.000.564,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/19 09:40:13.000.675,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/01/19 09:40:33.000.000,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/19 09:40:33.000.098,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/19 15:00:34.000.819,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/19 15:00:34.000.924,=C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/19 15:01:33.000.956,C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Team\BCB\通訊0719\Unit1.h</Transaction>
+    <Transaction>2023/07/19 15:01:33.000.956,C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Team\BCB\通訊0719\Unit1.dfm</Transaction>
+    <Transaction>2023/07/19 15:01:33.000.956,C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Team\BCB\通訊0719\Unit1.cpp</Transaction>
+    <Transaction>2023/07/19 16:01:01.000.999,C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Team\BCB\通訊0719\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/19 16:01:07.000.924,C:\Users\gavin\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Team\BCB\通訊0719\Project1.cbproj</Transaction>
+    <Transaction>2023/09/05 11:48:41.000.696,=C:\Users\a0928\OneDrive\桌面\Team\BCB\通訊\通訊0905\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

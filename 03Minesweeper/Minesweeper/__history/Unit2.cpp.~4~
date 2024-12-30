@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Unit2.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+
+void __fastcall ButtonClick(TObject *Sender)
+{
+    TButton *clickedButton = dynamic_cast<TButton*>(Sender);
+    if (clickedButton)
+    {
+        ShowMessage("Button clicked: " + clickedButton->Caption);
+    }
+}
