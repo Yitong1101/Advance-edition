@@ -1,0 +1,11 @@
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\bin\Debug\Bingo_Demo.exe.config
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\bin\Debug\Bingo_Demo.exe
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\bin\Debug\Bingo_Demo.pdb
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.csproj.AssemblyReference.cache
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.Properties.Resources.resources
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.csproj.GenerateResource.cache
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.exe
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.pdb
+C:\Users\Chen Yi Tong\Desktop\C#\Bingo\Bingo_Demo\Bingo_Demo\obj\Debug\Bingo_Demo.Form1.resources
